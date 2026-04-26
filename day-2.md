@@ -46,4 +46,6 @@
 ## This is H2 text
 # This is H1 text
 
-
+#### Link
+[Link to Microsoft Training](/training)
+![Link an image.](/learn/azure-devops/shared/media/mara.png)
