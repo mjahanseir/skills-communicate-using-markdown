@@ -87,6 +87,5 @@ var sum = first + second;
 
 
 \code
-\details
 
 ***Hello, world!***
