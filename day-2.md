@@ -33,3 +33,6 @@
 | Git  | Free | ⭐⭐⭐⭐⭐ |
 | Azure| $$$  | ⭐⭐⭐⭐ |
 | AWS  | $$$$ | ⭐⭐⭐⭐⭐ |
+
+
+\_This is all \*\*plain\*\* text\_.
