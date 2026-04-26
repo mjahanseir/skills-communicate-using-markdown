@@ -60,3 +60,10 @@ First|Second
 #### Link
 [Link to Microsoft Training](/training)
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
+
+
+
+##### Quote
+> This is quoted text.
+
+Here is a<br />line break
