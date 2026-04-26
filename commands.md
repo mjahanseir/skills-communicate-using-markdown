@@ -21,9 +21,7 @@
 #### Image 
 ![](https://raw.githubusercontent.com/mjahanseir/skills-communicate-using-markdown/refs/heads/main/image/octocat.png)
 <img alt="octocat" src="https://raw.githubusercontent.com/mjahanseir/skills-communicate-using-markdown/refs/heads/main/image/octocat.png" width=100 align="right">
-<p align="center">
-  <img src="images/devops.png" width="500">
-</p>
+
 ![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png "Docker Logo")
 
 #### Table 
