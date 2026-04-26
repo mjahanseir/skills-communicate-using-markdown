@@ -67,3 +67,15 @@ First|Second
 > This is quoted text.
 
 Here is a<br />line break
+
+
+#### Code
+
+This is `code`.
+
+
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
