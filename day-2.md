@@ -1,8 +1,6 @@
 # Daily Learning
 ## Morning Planning
 
-## Review
-
 
 #### ordered List #####
 1. one
