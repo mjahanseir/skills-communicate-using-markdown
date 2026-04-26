@@ -6,8 +6,13 @@
 
 #### ordered List #####
 1. one
+   - oneone
+   - two two
 2. two
+   1. two
+   2. two
 3. three
+
 
 #### unordered List #####
 - one
@@ -34,6 +39,11 @@
 | Git  | Free | ⭐⭐⭐⭐⭐ |
 | Azure| $$$  | ⭐⭐⭐⭐ |
 | AWS  | $$$$ | ⭐⭐⭐⭐⭐ |
+
+First|Second
+-|-
+1|2
+3|4
 
 
 \_This is all \*\*plain\*\* text\_.
