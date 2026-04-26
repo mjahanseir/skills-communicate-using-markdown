@@ -21,6 +21,7 @@
 
 #### Image #####
 ![](https://raw.githubusercontent.com/mjahanseir/skills-communicate-using-markdown/refs/heads/main/image/octocat.png)
+<img alt="octocat" src="https://raw.githubusercontent.com/mjahanseir/skills-communicate-using-markdown/refs/heads/main/image/octocat.png" width=100 align="right">
 
 #### Table #####
 | Col1 | Col2 | Col3 | 
