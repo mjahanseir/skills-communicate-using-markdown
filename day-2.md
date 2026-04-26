@@ -1,6 +1,4 @@
 # Daily Learning
-
-
 #### ordered List #####
 1. one
    - oneone
