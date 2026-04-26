@@ -24,6 +24,7 @@
 <p align="center">
   <img src="images/devops.png" width="500">
 </p>
+![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png "Docker Logo")
 
 #### Table 
 | Col1 | Col2 | Col3 | 
